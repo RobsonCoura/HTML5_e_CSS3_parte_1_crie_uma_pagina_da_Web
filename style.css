@@ -31,3 +31,11 @@ em strong {
 .beneficios {
     background: #FFFFFF;
 }
+
+#beneficios {
+    width: 100%;
+}
+
+h2 {
+    text-align: center
+}
